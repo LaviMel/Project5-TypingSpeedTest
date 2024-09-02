@@ -1,0 +1,6 @@
+## 100 Days of Code: Project 5 - Typing Speed Test
+This is my fifth project in the "100 Days of Code: The Complete Python Pro Bootcamp" course. The goal of this project was to create a "Typing Speed Test" application using Python and Tkinter. In this project, I dove deep into GUI development, experimenting with various widget features like labels, buttons, and text boxes, and implementing design concepts to create an engaging and interactive user experience.
+
+Throughout this project, I refined my skills in Python programming, particularly in working with Tkinter to build and manage the graphical interface. I also learned how to handle user input dynamically, such as starting timers upon keypress events, managing text placeholders, and controlling the display of different widgets to guide users through the application flow.
+
+In addition to GUI development, I gained experience in basic file handling, which allowed me to create a simple high-score tracking system that stores and retrieves the top score from a file. I further enhanced the visual aspect of the application by leveraging the PIL (Pillow) library to manipulate images and render custom text and fonts, adding a polished and personalized touch to the interface.
